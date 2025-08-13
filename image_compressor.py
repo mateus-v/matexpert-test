@@ -10,7 +10,7 @@ st.info("""
         st.write("""
         **Processamento por Tipo:**
         
-        📷 **PNG/JPEG**:
+         **PNG/JPEG**:
         - ✅ **Converte para WEBP**
         - ✅ Até 35% menor (PNG)
         - ✅ Até 25% menor (JPEG)
